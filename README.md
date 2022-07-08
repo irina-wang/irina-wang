@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm a **creative developer** passionated about creating children's media and games! 👶🏻
+I'm a creative developer passionated about creating **children's media and games**! 👶🏻
 
 
 NOW 🌱
@@ -11,11 +11,10 @@ NOW 🌱
 
 BIO 🍟
 - 🧠 Graduated 05/2022 with a degree in Computer Science, Cognitive Science, and Child Studies. 
-- ⚙️ Most familiar with web & full-stack programming  
-- 🐍 :bowtie: Fluent in Python, JavaScript, C++ & Mandarin! 
+- ⚙️ Most familiar with web & full-stack programming
+- :bowtie: Fluent in Python, JavaScript, C++ & Mandarin! 
 - 👽 10/10 Street photographer 
 - ⛽ Constantly learning & growing!
-
 
 
 
