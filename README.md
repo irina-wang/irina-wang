@@ -13,13 +13,13 @@ I'm a **creative developer** passionated about creating **children's media and g
 
 
 
-NOW 🌱
-- 🎦  Learning Maya & making a camera plugin
+### NOW 🌱
+- 🎦  Learning **Maya** & making **a camera plugin**
 - 👀 Crafting the website for Half The History project in React
 - 🌈 Doing some art work as side projects 
 
 
-BIO 🍟
+### BIO 🍟
 - 🧠 B.S. degree in Computer Science, Cognitive Science, and Child Studies. 
 - ⚙️ Web & full-stack programming
 - :bowtie: Top Langs: **Python**, **JavaScript**, **C++** & Mandarin! 
