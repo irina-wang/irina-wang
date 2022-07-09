@@ -1,12 +1,14 @@
 Hi there 👋
 
 
-<div style='display:grid;grid-template-columns: 60px 60px; grid-template-rows: 90px;'>
-  <div style='grid-column: 1 / 2;grid-row: 1/2;'>
+<div style='display: grid;
+  grid-template-columns: 1fr 1fr 1fr;grid-template-rows: 1fr;
+  grid-column-gap: 0px;'>
+  <div style=' grid-column: 1;'>
   I'm a **creative developer** passionated about creating **children's media and games**! 👶🏻
   </div>
-  <div style='grid-column: 2/3;grid-row: 1/2;'>
-  hji
+  <div style=' grid-column: 2;'>
+  hji how about this
   </div>
 </div>
 
