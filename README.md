@@ -1,7 +1,12 @@
 Hi there 👋
-
-I'm a **creative developer** passionated about creating **children's media and games**! 👶🏻
-
+<div>
+  <div width='50%'>
+  I'm a **creative developer** passionated about creating **children's media and games**! 👶🏻
+  </div>
+  <div width='50%'>
+  lal
+  </div>
+</div>
 
 ### NOW 🌱
 - 🎦   Learning **Maya** & making a [**camera plugin**](https://github.com/irina-wang/Maya/blob/main/Projects/pyCamera.py)
