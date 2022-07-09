@@ -1,7 +1,7 @@
 Hi there 👋
 
 
-<div style='grid-template-columns: 60px 60px; grid-template-rows: 90px;'>
+<div style='display:grid;grid-template-columns: 60px 60px; grid-template-rows: 90px;'>
   <div style='grid-column: 1 / 2;grid-row: 1/2;'>
   I'm a **creative developer** passionated about creating **children's media and games**! 👶🏻
   </div>
@@ -9,6 +9,7 @@ Hi there 👋
   hji
   </div>
 </div>
+
 
 ### NOW 🌱
 - 🎦   Learning **Maya** & making a [**camera plugin**](https://github.com/irina-wang/Maya/blob/main/Projects/pyCamera.py)
