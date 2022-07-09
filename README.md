@@ -1,15 +1,23 @@
 Hi there 👋
 
+<style>
+  .float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+  }
 
-<div style='display: grid;
-  grid-template-columns: 1fr 1fr 1fr;grid-template-rows: 1fr;
-  grid-column-gap: 0px;'>
-  <div style=' grid-column: 1; height: 500px;
-  width: 300px;'>
+  .float-child {
+      width: 50%;
+      float: left;
+      padding: 20px;
+      border: 2px solid red;
+  }  
+</style>
+<div  class="float-container">
+  <div class="float-child">
   I'm a **creative developer** passionated about creating **children's media and games**! 👶🏻
   </div>
-  <div style=' grid-column: 2; height: 500px;
-  width: 300px;'>
+  <div class="float-child">
   hji how about this
   </div>
 </div>
