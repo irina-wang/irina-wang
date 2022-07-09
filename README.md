@@ -1,9 +1,13 @@
 Hi there 👋
-<div>
-  <div width='50%'>
+<div style='display:grid; align-items: start; grid-template-areas:
+    "a a a a b b b b"
+    "a a a a b b b b"
+    "c c c c d d d d"
+    "c c c c d d d d";'>
+  <div style='grid-area:a'>
   I'm a **creative developer** passionated about creating **children's media and games**! 👶🏻
   </div>
-  <div width='50%'>
+  <div style='grid-area:b'>
   lal
   </div>
 </div>
