@@ -1,14 +1,12 @@
 Hi there 👋
-<div style='display:grid; align-items: start; grid-template-areas:
-    "a a a a b b b b"
-    "a a a a b b b b"
-    "c c c c d d d d"
-    "c c c c d d d d";'>
-  <div style='grid-area:a'>
+
+
+<div style='grid-template-columns: 60px 60px; grid-template-rows: 90px;'>
+  <div style='grid-column: 1 / 2;grid-row: 1/2;'>
   I'm a **creative developer** passionated about creating **children's media and games**! 👶🏻
   </div>
-  <div style='grid-area:b'>
-  lal
+  <div style='grid-column: 2/3;grid-row: 1/2;'>
+  hji
   </div>
 </div>
 
