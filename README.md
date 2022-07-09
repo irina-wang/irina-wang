@@ -4,10 +4,12 @@ Hi there 👋
 <div style='display: grid;
   grid-template-columns: 1fr 1fr 1fr;grid-template-rows: 1fr;
   grid-column-gap: 0px;'>
-  <div style=' grid-column: 1;'>
+  <div style=' grid-column: 1; height: 500px;
+  width: 300px;'>
   I'm a **creative developer** passionated about creating **children's media and games**! 👶🏻
   </div>
-  <div style=' grid-column: 2;'>
+  <div style=' grid-column: 2; height: 500px;
+  width: 300px;'>
   hji how about this
   </div>
 </div>
