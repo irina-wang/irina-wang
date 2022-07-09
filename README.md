@@ -1,20 +1,4 @@
 Hi there 👋
-<div>
-  <div style='width:70%'>
-    <div id="header" align="right" >
-      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-    </div>
-  </div>
-</div>
-
-
-<div style='width:30%' align='right'>
-    <div id="badges" style='width:50px;'>
-      <a href="https://www.linkedin.com/in/mengqi-irina-wang-2290bb153/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-  </div>
-</div>
 
 I'm a **creative developer** passionated about creating **children's media and games**! 👶🏻
 
@@ -26,7 +10,7 @@ I'm a **creative developer** passionated about creating **children's media and g
 
 
 ### PROJECTS 🧤
-<div style='width:30%' align='right'>
+<div align='left'>
     <div id="badges" style='width:50px;'>
       <a href="https://github.com/irina-wang/BBKeeper">
         <img src="https://img.shields.io/badge/Game-BBKeeper-orange" alt="Project tag"/>
@@ -65,9 +49,22 @@ I'm a **creative developer** passionated about creating **children's media and g
 <div>
 💬 Ping me about projects, design, photography, EdTech, freelancing, and etc!
 
-<a href="https://www.linkedin.com/in/mengqi-irina-wang-2290bb153/">
+<div>
+  <div style='width:70%'>
+    <div id="header" align="right" >
+      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+    </div>
+  </div>
+</div>
+
+
+<div style='width:30%' align='right'>
+    <div id="badges" style='width:50px;'>
+      <a href="https://www.linkedin.com/in/mengqi-irina-wang-2290bb153/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
+  </div>
+</div>
 </div>
 
 
