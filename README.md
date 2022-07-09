@@ -3,7 +3,7 @@ Hi there 👋
 I'm a **creative developer** passionated about creating **children's media and games**! 👶🏻
 
 ### NOW 🌱
-- 🎦   Learning **Maya** & making a [**camera plugin**](https://github.com/irina-wang/Maya/blob/main/Projects/pyCamera.py)
+- 🎦  Learning **Maya** & making a [**camera plugin**](https://github.com/irina-wang/Maya/blob/main/README.md)
 - 👀  Crafting the website for Half The History project in React
 - 🌈  Doing some art work as side projects 
 
